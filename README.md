@@ -7,3 +7,14 @@
 
 作者にコカコーラを与えると頑張ります。ほしい本だともっと頑張ります。買ってくれる人は以下のURLからお願いします。<br>
 https://www.amazon.co.jp/registry/wishlist/39GB34BIVWSJS/ref=cm_sw_r_tw_ws_x_mNgDzbZT21CTS <br>
+
+このチュートリアルで題材にしたkaggleの問題集
+1.titanic
+
+これから題材にしようと思っている問題集
+1.Digit Recognizer
+2.Houce prices
+3.cats and dogs
+4.leaf classification
+5.Integer Sequence Learning
+...etc
