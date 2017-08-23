@@ -11,10 +11,12 @@ https://www.amazon.co.jp/registry/wishlist/39GB34BIVWSJS/ref=cm_sw_r_tw_ws_x_mNg
 このチュートリアルで題材にしたkaggleの問題集<br>
 1.titanic<br>
 
-これから題材にしようと思っている問題集<br>
+今書いている問題<br>
 1.Digit Recognizer<br>
-2.Houce prices<br>
-3.cats and dogs<br>
-4.leaf classification<br>
-5.Integer Sequence Learning<br>
+
+これから題材にしようと思っている問題集<br>
+1.Houce prices<br>
+2.cats and dogs<br>
+3.leaf classification<br>
+4.Integer Sequence Learning<br>
 ...etc<br>
